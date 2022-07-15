@@ -1,23 +1,19 @@
 .container{
-    position: relative;
-    width: 500px;
-    height: 800px;
+    width: 50%;
+    height: 80%;
     border-radius: 15px;
 
     background: #360160;
 }
 
 .title {
-    position: absolute;
-    width: 380px;
-    height: 94px;
-    left: 60px;
-    top: 34px;
+    width: 38%;
+    height: 1%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 700;
-    font-size: 52px;
+    font-size: 5.2%;
     line-height: 90.3%;
     /* or 47px */
 
@@ -26,96 +22,77 @@
 }
 
 .low-title1 {
-    position: absolute;
-    width: 380px;
-    height: 23px;
-    left: 60px;
-    top: 170px;
+    width: 38%;
+    height: 22.3%;
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
+    font-size: 2%;
+    line-height: 2.3%;
 
     color: #FFFFFF;
 }
 
 .low-title2 {
-    position: absolute;
-    width: 380px;
-    height: 23px;
-    left: 60px;
-    top: 271px;
+    width: 38%;
+    height: 2.3%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
+    font-size: 20%;
+    line-height: 2.3%;
 
     color: #FFFFFF;
 }
 
 .low-title3 {
-    position: absolute;
-    width: 380px;
-    height: 23px;
-    left: 60px;
-    top: 371px;
+    width: 38%;
+    height: 2.3%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
+    font-size: 2%;
+    line-height: 2.3%;
 
     color: #FFFFFF;
 }
 
 .tea {
-    position: absolute;
-    width: 147px;
-    height: 29px;
-    left: 60px;
-    top: 607px;
+    width: 14.7%;
+    height: 2.9%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
+    font-size: 2.5%;
+    line-height: 2.9%;
 
     color: #FFFFFF;
 }
 
 .total {
-    position: absolute;
-    width: 147px;
-    height: 29px;
-    left: 60px;
-    top: 666px;
+    width: 14.7%;
+    height: 2.9%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
-
+    font-size: 2.5%;
+    line-height: 2.9%;
     color: #FFFFFF;
 }
 
 .f1 {
-    position: absolute;
-    width: 112px;
-    height: 21px;
-    left: 240px;
-    top: 616px;
+    width: 11.2%;
+    height: 2.1%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.8%;
+    line-height: 2.1%;
     /* identical to box height */
 
     text-align: right;
@@ -124,17 +101,14 @@
 }
 
 .f2 {
-    position: absolute;
-    width: 112px;
-    height: 21px;
-    left: 240px;
-    top: 675px;
+    width: 11.2%;
+    height: 2.1%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.8%;
+    line-height: 2.1%;
     /* identical to box height */
 
     text-align: right;
@@ -143,39 +117,29 @@
 }
 
 .count {
-    position: absolute;
-    width: 180px;
-    height: 60px;
-    left: 60px;
-    top: 515px;
+    width: 18%;
+    height: 6%;
 
     background: #FFDC40;
-    border-radius: 15px;
+    border-radius: 1.5%;
 }
 
 .throw {
-    position: absolute;
-    width: 180px;
-    height: 60px;
-    left: 260px;
-    top: 515px;
-
+    width: 18%;
+    height: 6%;
     background: #7C7A7A;
-    border-radius: 15px;
+    border-radius: 1.5%;
 }
 
 .c {
-    position: absolute;
-    width: 128px;
-    height: 22px;
-    left: 82px;
-    top: 515px;
+    width: 12.8%;
+    height: 2.2%;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 700;
-    font-size: 19px;
-    line-height: 22px;
+    font-size: 1.9%;
+    line-height: 2.2%;
     text-align: center;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -184,7 +148,6 @@
 }
 
 .t {
-    position: absolute;
     width: 114px;
     height: 22px;
     left: 290px;
@@ -200,96 +163,4 @@
     text-transform: uppercase;
 
     color: #000000;
-}
-
-.inp1 {
-    position: absolute;
-    width: 380px;
-    height: 52px;
-    left: 60px;
-    top: 215px;
-
-    border-radius: 10px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 26px;
-    /* identical to box height */
-
-
-    color: #000000;
-}
-
-.quality {
-    position: absolute;
-    width: 390px;
-    height: 60px;
-    left: 60px;
-    top: 315px;
-
-    border-radius: 10px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 26px;
-
-    color: #000000;
-}
-
-.inp3 {
-    position: absolute;
-    width: 380px;
-    height: 52px;
-    left: 60px;
-    top: 415px;
-
-    border-radius: 10px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 26px;
-    /* identical to box height */
-
-
-    color: #000000; 
-}
-
-.otp1 {
-    position: absolute;
-    width: 147px;
-    height: 40px;
-    left: 172px;
-    top: 590px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 34px;
-    line-height: 40px;
-    /* identical to box height */
-
-
-    color: #FFFFFF;
-}
-
-.otp2 {
-    position: absolute;
-    width: 147px;
-    height: 33px;
-    left: 172px;
-    top: 650px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 34px;
-    line-height: 40px;
-
-    color: #FFFFFF;
 }
