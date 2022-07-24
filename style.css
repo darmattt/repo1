@@ -1,4 +1,5 @@
 .container{
+    display: flex;
     width: 500px;
     height: 800px;
     border-radius: 15px;
@@ -7,6 +8,7 @@
 }
 
 .title {
+    display: flex;
     width: 380px;
     height: 94px;
 
@@ -22,6 +24,7 @@
 }
 
 .low-title1 {
+    display: flex;
     width: 380px;
     height: 23px;
     
@@ -35,6 +38,7 @@
 }
 
 .low-title2 {
+    display: flex;
     width: 380px;
     height: 23px;
 
@@ -48,6 +52,7 @@
 }
 
 .low-title3 {
+    display: flex;
     width: 380px;
     height: 23px;
 
@@ -61,6 +66,7 @@
 }
 
 .tea {
+    display: flex;
     width: 147px;
     height: 29px;
 
@@ -74,6 +80,7 @@
 }
 
 .total {
+    display: flex;
     width: 147px;
     height: 29px;
 
@@ -87,6 +94,7 @@
 }
 
 .f1 {
+    display: flex;
     width: 112px;
     height: 21px;
 
@@ -103,6 +111,7 @@
 }
 
 .f2 {
+    display: flex;
     width: 112px;
     height: 21px;
 
@@ -119,6 +128,7 @@
 }
 
 .count {
+    display: flex;
     width: 180px;
     height: 60px;
 
@@ -127,6 +137,7 @@
 }
 
 .throw {
+    display: flex;
     width: 180px;
     height: 60px;
 
@@ -135,6 +146,7 @@
 }
 
 .c {
+    display: flex;
     width: 128px;
     height: 22px;
 
@@ -151,6 +163,7 @@
 }
 
 .t {
+    display: flex;
     width: 114px;
     height: 22px;
 
@@ -167,6 +180,7 @@
 }
 
 .inp1 {
+    display: flex;
     width: 380px;
     height: 52px;
 
@@ -184,6 +198,7 @@
 }
 
 .quality {
+    display: flex;
     width: 390px;
     height: 60px;
 
@@ -199,6 +214,7 @@
 }
 
 .inp3 {
+    display: flex;
     width: 380px;
     height: 52px;
 
@@ -216,6 +232,7 @@
 }
 
 .otp1 {
+    display: flex;
     width: 147px;
     height: 40px;
 
@@ -231,6 +248,7 @@
 }
 
 .otp2 {
+    display: flex;
     width: 147px;
     height: 33px;
 
