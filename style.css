@@ -1,4 +1,6 @@
 .container{
+    
+    display: flex;
     width: 500px;
     height: 800px;
     padding: 30px 20px;
@@ -9,7 +11,6 @@
 
 .title {
     width: 380px;
-    height: 94px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
