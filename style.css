@@ -9,7 +9,6 @@
 .title {
     width: 380px;
     height: 94px;
-    left: 60px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -25,7 +24,7 @@
 .low-title1 {
     width: 380px;
     height: 23px;
-    left: 60px;
+    
     font-family: 'Roboto Condensed';
     font-style: normal;
     font-weight: 400;
@@ -38,7 +37,6 @@
 .low-title2 {
     width: 380px;
     height: 23px;
-    left: 60px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -52,7 +50,6 @@
 .low-title3 {
     width: 380px;
     height: 23px;
-    left: 60px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -66,7 +63,6 @@
 .tea {
     width: 147px;
     height: 29px;
-    left: 60px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -80,7 +76,6 @@
 .total {
     width: 147px;
     height: 29px;
-    left: 60px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -94,7 +89,6 @@
 .f1 {
     width: 112px;
     height: 21px;
-    left: 240px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -111,7 +105,6 @@
 .f2 {
     width: 112px;
     height: 21px;
-    left: 240px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -128,7 +121,6 @@
 .count {
     width: 180px;
     height: 60px;
-    left: 60px;
 
     background: #FFDC40;
     border-radius: 15px;
@@ -137,7 +129,6 @@
 .throw {
     width: 180px;
     height: 60px;
-    left: 260px;
 
     background: #7C7A7A;
     border-radius: 15px;
@@ -146,7 +137,6 @@
 .c {
     width: 128px;
     height: 22px;
-    left: 82px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -163,7 +153,6 @@
 .t {
     width: 114px;
     height: 22px;
-    left: 290px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -180,7 +169,6 @@
 .inp1 {
     width: 380px;
     height: 52px;
-    left: 60px;
 
     border-radius: 10px;
 
@@ -198,7 +186,6 @@
 .quality {
     width: 390px;
     height: 60px;
-    left: 60px;
 
     border-radius: 10px;
 
@@ -214,7 +201,6 @@
 .inp3 {
     width: 380px;
     height: 52px;
-    left: 60px;
 
     border-radius: 10px;
 
@@ -232,7 +218,6 @@
 .otp1 {
     width: 147px;
     height: 40px;
-    left: 172px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
@@ -248,7 +233,6 @@
 .otp2 {
     width: 147px;
     height: 33px;
-    left: 172px;
 
     font-family: 'Roboto Condensed';
     font-style: normal;
