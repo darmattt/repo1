@@ -12,6 +12,8 @@
 
 .title {
     width: 350px;
+    
+    line-height: 47px;
 
     font-weight: 700;
     font-size: 32px;
@@ -88,11 +90,13 @@
 .tea {
     display: flex;
     color: #FFFFFF;
+    font-size: 20px;
 }
 
 .total {
     display: flex;
     color: #FFFFFF;
+    font-size: 20px;
 }
 
 .f1 {
