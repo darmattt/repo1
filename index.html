@@ -8,9 +8,30 @@
 <body>
     <div class="container">
           <p class="title">Калькулятор чаевых</p>
+
           <p class="low-title1">Сумма по счету</p>
+          <input class="inp1" type ="number">
+
           <p class="low-title2">Качество обслуживания</p>
+          <p class="inp2">
+
+          <label>
+            <select class="quality">
+            <option value="0">Плохое (0%)</option>
+            <option value="0.05">Нормальное (5%)</option>
+            <option value="0.1">Хорошее (10%)</option>
+            <option value="0.15">Отличное (15%)</option>
+            </select>
+        </label></p>
+
           <p class="low-title3">Количество человек</p>
+          <input class="inp3" type="number"></p>
+
+          <button class="count"></button>
+          <p class="c">Посчитать</p>
+          <button class="throw"></button>
+          <p class="t">Сбросить</p>
+      
       <div style="display: flex; align-items: center">
         <div class="tea">Чаевые:</div>
         <div class="otp1">123131</div>
@@ -21,22 +42,6 @@
         <div class="otp2">123131</div>
         <div class="f2">(с каждого)</div></div>
         
-    <button class="count"></button>
-    <p class="c">Посчитать</p>
-    <button class="throw"></button>
-    <p class="t">Сбросить</p>
-    <input class="inp1" type ="number">
-    <p class="inp2">
-        <label>
-  <select class="quality">
-    <option value="0">Плохое (0%)</option>
-    <option value="0.05">Нормальное (5%)</option>
-    <option value="0.1">Хорошее (10%)</option>
-    <option value="0.15">Отличное (15%)</option>
-  </select>
-</label></p>
-    <input class="inp3" type="number"></p>
-  
   </div>
   <script src="java.js"></script>
 </body>
