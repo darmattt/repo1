@@ -7,7 +7,6 @@
     height: 800px;
     padding: 20px 20px;
     border-radius: 15px;
-
     background: #360160;
 }
 
@@ -15,9 +14,7 @@
     width: 350px;
 
     font-weight: 700;
-    font-size: 52px;
-    line-height: 90.3%;
-    /* or 47px */
+    font-size: 32px;
 
     color: #FFDC40;
 }
@@ -27,7 +24,7 @@
     height: 23px;
 
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
 
     color: #FFFFFF;
 }
@@ -39,7 +36,7 @@
     border-radius: 10px;
 
     font-weight: 400;
-    font-size: 22px;
+    font-size: 32px;
 
     color: #000000;
 }
@@ -49,7 +46,7 @@
     height: 23px;
 
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
 
     color: #FFFFFF;
 }
@@ -61,7 +58,7 @@
     border-radius: 10px;
 
     font-weight: 400;
-    font-size: 22px;
+    font-size: 32px;
 
     color: #000000;
 }
@@ -71,7 +68,7 @@
     height: 23px;
 
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
 
     color: #FFFFFF;
 }
@@ -83,21 +80,19 @@
     border-radius: 10px;
 
     font-weight: 400;
-    font-size: 22px;
+    font-size: 32px;
 
     color: #000000; 
 }
 
 .tea {
     display: flex;
-    font-size: 20px;
     color: #FFFFFF;
 }
 
 .total {
     display: flex;
     color: #FFFFFF;
-    font-size: 20px;
 }
 
 .f1 {
@@ -114,6 +109,8 @@
     width: 180px;
     height: 60px;
 
+    font-size: 30px;
+
     background: #FFDC40;
     border-radius: 15px;
 }
@@ -122,26 +119,22 @@
     width: 180px;
     height: 60px;
 
+    font-size: 30px;
+
     background: #7C7A7A;
     border-radius: 15px;
 }
 
 .otp1 {
-    width: 147px;
-    height: 40px;
-
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
 
     color: #FFFFFF;
 }
 
 .otp2 {
-    width: 147px;
-    height: 33px;
-
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
 
     color: #FFFFFF;
 }
