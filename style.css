@@ -1,3 +1,7 @@
+.body {
+    font-family: 'Roboto Condensed';
+}
+
 .container{
     width: 500px;
     height: 800px;
@@ -10,13 +14,10 @@
 .title {
     width: 350px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 700;
     font-size: 52px;
     line-height: 90.3%;
     /* or 47px */
-
 
     color: #FFDC40;
 }
@@ -25,11 +26,8 @@
     width: 380px;
     height: 23px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 23px;
 
     color: #FFFFFF;
 }
@@ -40,13 +38,8 @@
 
     border-radius: 10px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 22px;
-    line-height: 26px;
-    /* identical to box height */
-
 
     color: #000000;
 }
@@ -55,11 +48,8 @@
     width: 380px;
     height: 23px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 23px;
 
     color: #FFFFFF;
 }
@@ -70,11 +60,8 @@
 
     border-radius: 10px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 22px;
-    line-height: 26px;
 
     color: #000000;
 }
@@ -83,11 +70,8 @@
     width: 380px;
     height: 23px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 23px;
 
     color: #FFFFFF;
 }
@@ -98,13 +82,8 @@
 
     border-radius: 10px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 400;
     font-size: 22px;
-    line-height: 26px;
-    /* identical to box height */
-
 
     color: #000000; 
 }
@@ -116,19 +95,16 @@
 
 .total {
     display: flex;
-
     color: #FFFFFF;
 }
 
 .f1 {
     text-align: right;
-
     color: #B6B6B6;
 }
 
 .f2 {
     text-align: right;
-
     color: #B6B6B6;
 }
 
@@ -148,49 +124,12 @@
     border-radius: 15px;
 }
 
-.c {
-    width: 128px;
-    height: 22px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 19px;
-    line-height: 22px;
-    text-align: center;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-
-    color: #000000;
-}
-
-.t {
-    width: 114px;
-    height: 22px;
-
-    font-family: 'Roboto Condensed';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 19px;
-    line-height: 22px;
-    text-align: center;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-
-    color: #000000;
-}
-
 .otp1 {
     width: 147px;
     height: 40px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 700;
     font-size: 34px;
-    line-height: 40px;
-    /* identical to box height */
-
 
     color: #FFFFFF;
 }
@@ -199,11 +138,8 @@
     width: 147px;
     height: 33px;
 
-    font-family: 'Roboto Condensed';
-    font-style: normal;
     font-weight: 700;
     font-size: 34px;
-    line-height: 40px;
 
     color: #FFFFFF;
 }
