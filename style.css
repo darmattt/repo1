@@ -90,12 +90,14 @@
 
 .tea {
     display: flex;
+    font-size: 20px;
     color: #FFFFFF;
 }
 
 .total {
     display: flex;
     color: #FFFFFF;
+    font-size: 20px;
 }
 
 .f1 {
@@ -129,7 +131,7 @@
     height: 40px;
 
     font-weight: 700;
-    font-size: 34px;
+    font-size: 20px;
 
     color: #FFFFFF;
 }
@@ -139,7 +141,7 @@
     height: 33px;
 
     font-weight: 700;
-    font-size: 34px;
+    font-size: 20px;
 
     color: #FFFFFF;
 }
