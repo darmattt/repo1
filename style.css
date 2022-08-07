@@ -2,143 +2,428 @@
     font-family: 'Roboto Condensed';
 }
 
-.container{
-    width: 500px;
-    height: 800px;
-    padding: 20px 20px;
-    border-radius: 15px;
-    background: #360160;
+@media screen and (min-width: 767px) and (max-width: 991px) {
+    .container{
+        width: 500px;
+        height: 800px;
+        padding: 20px 20px;
+        border-radius: 15px;
+        background: #360160;
+    }
+
+    .title {
+        width: 350px;
+
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 47px;
+
+        color: #FFDC40;
+    }
+
+    .low-title1 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .inp1 {
+        width: 380px;
+        height: 52px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000;
+    }
+
+    .low-title2 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .quality {
+        width: 390px;
+        height: 60px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000;
+    }
+
+    .low-title3 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .inp3 {
+        width: 380px;
+        height: 52px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000; 
+    }
+
+    .tea {
+        display: flex;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .total {
+        display: flex;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .f1 {
+        text-align: right;
+        color: #B6B6B6;
+    }
+
+    .f2 {
+        text-align: right;
+        color: #B6B6B6;
+    }
+
+    .count {
+        width: 180px;
+        height: 60px;
+
+        font-size: 30px;
+
+        background: #FFDC40;
+        border-radius: 15px;
+    }
+
+    .throw {
+        width: 180px;
+        height: 60px;
+
+        font-size: 30px;
+
+        background: #7C7A7A;
+        border-radius: 15px;
+    }
+
+    .otp1 {
+        font-weight: 700;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .otp2 {
+        font-weight: 700;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
 }
 
-.title {
-    width: 350px;
-    
-    line-height: 47px;
+@media screen and (min-width: 479px) and (max-width: 767px) {
+    .container{
+        width: 500px;
+        height: 800px;
+        padding: 20px 20px;
+        border-radius: 15px;
+        background: #360160;
+    }
 
-    font-weight: 700;
-    font-size: 32px;
+    .title {
+        width: 350px;
 
-    color: #FFDC40;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 47px;
+
+        color: #FFDC40;
+    }
+
+    .low-title1 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .inp1 {
+        width: 380px;
+        height: 52px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000;
+    }
+
+    .low-title2 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .quality {
+        width: 390px;
+        height: 60px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000;
+    }
+
+    .low-title3 {
+        width: 380px;
+        height: 23px;
+
+        font-weight: 400;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .inp3 {
+        width: 380px;
+        height: 52px;
+
+        border-radius: 10px;
+
+        font-weight: 400;
+        font-size: 32px;
+
+        color: #000000; 
+    }
+
+    .tea {
+        display: flex;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .total {
+        display: flex;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .f1 {
+        text-align: right;
+        color: #B6B6B6;
+    }
+
+    .f2 {
+        text-align: right;
+        color: #B6B6B6;
+    }
+
+    .count {
+        width: 180px;
+        height: 60px;
+
+        font-size: 30px;
+
+        background: #FFDC40;
+        border-radius: 15px;
+    }
+
+    .throw {
+        width: 180px;
+        height: 60px;
+
+        font-size: 30px;
+
+        background: #7C7A7A;
+        border-radius: 15px;
+    }
+
+    .otp1 {
+        font-weight: 700;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
+
+    .otp2 {
+        font-weight: 700;
+        font-size: 30px;
+
+        color: #FFFFFF;
+    }
 }
 
-.low-title1 {
-    width: 380px;
-    height: 23px;
+@media screen and (max-width: 479px) {
+    .container{
+        width: 100%;
+        height: 100%;
+        padding: 4% 4%;
+        border-radius: 3%;
+        background: #360160;
+    }
 
-    font-weight: 400;
-    font-size: 30px;
+    .title {
+        width: 80%;
 
-    color: #FFFFFF;
-}
+        font-weight: 700;
+        font-size: 16%;
+        line-height: 10%;
 
-.inp1 {
-    width: 380px;
-    height: 52px;
+        color: #FFDC40;
+    }
 
-    border-radius: 10px;
+    .low-title1 {
+        width: 76%;
+        height: 5%;
 
-    font-weight: 400;
-    font-size: 32px;
+        font-weight: 400;
+        font-size: 6%;
 
-    color: #000000;
-}
+        color: #FFFFFF;
+    }
 
-.low-title2 {
-    width: 380px;
-    height: 23px;
+    .inp1 {
+        width: 76%;
+        height: 10%;
 
-    font-weight: 400;
-    font-size: 30px;
+        border-radius: 2%;
 
-    color: #FFFFFF;
-}
+        font-weight: 400;
+        font-size: 6%;
 
-.quality {
-    width: 390px;
-    height: 60px;
+        color: #000000;
+    }
 
-    border-radius: 10px;
+    .low-title2 {
+        width: 76%;
+        height: 4%;
 
-    font-weight: 400;
-    font-size: 32px;
+        font-weight: 400;
+        font-size: 6%;
 
-    color: #000000;
-}
+        color: #FFFFFF;
+    }
 
-.low-title3 {
-    width: 380px;
-    height: 23px;
+    .quality {
+        width: 78%;
+        height: 12%;
 
-    font-weight: 400;
-    font-size: 30px;
+        border-radius: 2%;
 
-    color: #FFFFFF;
-}
+        font-weight: 400;
+        font-size: 6%;
 
-.inp3 {
-    width: 380px;
-    height: 52px;
+        color: #000000;
+    }
 
-    border-radius: 10px;
+    .low-title3 {
+        width: 76%;
+        height: 4%;
 
-    font-weight: 400;
-    font-size: 32px;
+        font-weight: 400;
+        font-size: 6%;
 
-    color: #000000; 
-}
+        color: #FFFFFF;
+    }
 
-.tea {
-    display: flex;
-    color: #FFFFFF;
-    font-size: 20px;
-}
+    .inp3 {
+        width: 76%;
+        height: 10%;
 
-.total {
-    display: flex;
-    color: #FFFFFF;
-    font-size: 20px;
-}
+        border-radius: 2%;
 
-.f1 {
-    text-align: right;
-    color: #B6B6B6;
-}
+        font-weight: 400;
+        font-size: 6%;
 
-.f2 {
-    text-align: right;
-    color: #B6B6B6;
-}
+        color: #000000; 
+    }
 
-.count {
-    width: 180px;
-    height: 60px;
+    .tea {
+        display: flex;
+        font-size: 4%;
+        color: #FFFFFF;
+    }
 
-    font-size: 30px;
+    .total {
+        display: flex;
+        font-size: 4%;
+        color: #FFFFFF;
+    }
 
-    background: #FFDC40;
-    border-radius: 15px;
-}
+    .f1 {
+        text-align: right;
+        color: #B6B6B6;
+    }
 
-.throw {
-    width: 180px;
-    height: 60px;
+    .f2 {
+        text-align: right;
+        color: #B6B6B6;
+    }
 
-    font-size: 30px;
+    .count {
+        width: 36%;
+        height: 12%;
 
-    background: #7C7A7A;
-    border-radius: 15px;
-}
+        font-size: 6%;
 
-.otp1 {
-    font-weight: 700;
-    font-size: 30px;
+        background: #FFDC40;
+        border-radius: 3%;
+    }
 
-    color: #FFFFFF;
-}
+    .throw {
+        width: 36%;
+        height: 12%;
 
-.otp2 {
-    font-weight: 700;
-    font-size: 30px;
+        font-size: 6%;
 
-    color: #FFFFFF;
+        background: #7C7A7A;
+        border-radius: 3%;
+    }
+
+    .otp1 {
+        font-weight: 700;
+        font-size: 6%;
+
+        color: #FFFFFF;
+    }
+
+    .otp2 {
+        font-weight: 700;
+        font-size: 6%;
+
+        color: #FFFFFF;
+    }
 }
